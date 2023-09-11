@@ -9,4 +9,4 @@ Describe the purpose and context of your pull request here.
 - [ ] I have added necessary documentation (if applicable).
 - [ ] My code follows the coding standards of this project.
 - [ ] I have updated relevant comments or documentation.
-- [ ] I have squashed my commits into a single, concise commit.
+- [ ] I have squashed my commits into a single, concise commit.`
