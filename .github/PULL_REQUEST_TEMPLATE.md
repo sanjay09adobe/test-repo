@@ -1,12 +1,4 @@
-## Pull Request Template
+Please go the the `Preview` tab and select the appropriate sub-template:
 
-**Description**
-Describe the purpose and context of your pull request here.
-
-**Checklist**
-- [ ] I have reviewed the [Contributing Guidelines](CONTRIBUTING.md).
-- [ ] I have tested my changes locally.
-- [ ] I have added necessary documentation (if applicable).
-- [ ] My code follows the coding standards of this project.
-- [ ] I have updated relevant comments or documentation.
-- [ ] I have squashed my commits into a single, concise commit.`
+* [FEATURE](?expand=1&template=PULL_REQUEST_TEMPLATE_FEATURE.md)
+* [BUG](?expand=1&template=PULL_REQUEST_TEMPLATE_BUGS.md)
