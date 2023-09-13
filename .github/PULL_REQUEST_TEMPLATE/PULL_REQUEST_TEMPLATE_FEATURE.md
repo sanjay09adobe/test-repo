@@ -4,9 +4,19 @@
 Describe the purpose and context of your pull request here.
 
 **Checklist**
-- [ ] I have reviewed the [Contributing Guidelines](CONTRIBUTING.md).
-- [ ] I have tested my changes locally.
-- [ ] I have added necessary documentation (if applicable).
-- [ ] My code follows the coding standards of this project.
-- [ ] I have updated relevant comments or documentation.
-- [ ] I have squashed my commits into a single, concise commit.`
+- [ ] Added Jira ticket link.
+- [ ] Added Localhost screenshot.
+- [ ] Fixed all linting issues.
+- [ ] Check build is success(npm run prod).
+- [ ] Peer review done.
+- [ ] is Demo done (if required).
+- [ ] PR should contain files modified by you.(if any changes other than that, dont commit).
+- [ ] Called out open Issues in JIRA (Applicable for Stories).
+- [ ] PR should contain files modified by you.(if any changes other than that, dont commit).
+
+
+**Generic Checklist**
+- [ ] Verify No JS error/warning on consoles. Including react warnings.
+- [ ] React code should not be more than 100 lines. Break the file into smaller files.
+- [ ] Added comments wherver it is required(Methods, useEffect)
+
